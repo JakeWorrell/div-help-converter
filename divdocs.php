@@ -133,9 +133,6 @@ class DivHelpParser {
         // reformat headings
         $content = preg_replace('/\{((\w| )+)\:\}/m','### ${1}', $content);
 
-        // reformat emphasis
-        $content = preg_replace('/\{((\w| )+)\}/m','**${1}**', $content);
-
         //reformat code examples
         $content = preg_replace_callback(
             '/{#9999,(.*):}(.+){-}/ms',
@@ -148,14 +145,18 @@ class DivHelpParser {
 
         // replace terminus references
         $content = preg_replace_callback(
-            '/\{#(\d+),(.+)}/m',
+            '/\{#(\d+),(.+?)}/m',
             function($matches) use ($filenames){
                 list($match, $number, $title) = $matches;
                 return sprintf('[%s](%s)', $title, $filenames[$number]);
             },
             $content
         );
-        return $content;
+
+        // reformat emphasis
+        $content = preg_replace('/\{(.+?)\}/m','**${1}**', $content);
+
+        return htmlspecialchars($content);
     }
 }
 
