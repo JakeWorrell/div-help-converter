@@ -118,8 +118,11 @@ class DivHelpParser {
      * @return mixed
      */
     public function contentToMarkdown($content, $filenames){
-        // remove things I don't understand
+        // remove things we can't handle yet - images
         $content = preg_replace('/{\+\d,\d}{-}/m','',$content);
+
+        // replace dividers
+        $content = str_replace('{/}',"---------------------------------------\n",$content);
         
         // remove comments
         $content = preg_replace('/^\#.*(\n|\Z)/m','',$content);
