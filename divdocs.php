@@ -79,7 +79,7 @@ class DivHelpParser {
         $page = null;
         $pages = [];
 
-        $terminusDefinition = '/(\{\.\d+\,.+\})/';
+        $terminusDefinition = '/(\{\.\d+\,.+?\})/';
         $chunks = preg_split($terminusDefinition, $source, null, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
 
         foreach ($chunks as $chunk) {
