@@ -8,14 +8,23 @@ $source = iconv("CP437", "UTF-8",file_get_contents(__DIR__ .'/help/help.div'));
 $parser = new DivHelpParser();
 $pages = $parser->getPages($source);
 
-$mkdocsConfig =['site_name: DIV Documentation','theme: readthedocs','pages:','- \'Home\': \'index.md\''];
+$mkdocsConfig =['site_name: DIV Documentation','theme: readthedocs','pages:'];
 $filenames=[];
 
-file_put_contents('output/docs/index.md', 'just some index content');
+$terminusToExclude = [0,1];
 
-// Pre decide filenames
-foreach ($pages as $page) {
-    $filenames[$page->getNumber()] = sanitiseFilename($page->getTitle()) . '.md';
+// Pre decide filenames, and remove any stuff we don't need
+foreach ($pages as $index=>$page) {
+    if (in_array($page->getNumber(), $terminusToExclude)) {
+        unset($pages[$index]);
+        continue;
+    }
+
+    if ($page->getTitle() == 'General index') {
+        $filenames[$page->getNumber()] = 'index.md';
+    } else {
+        $filenames[$page->getNumber()] = sanitiseFilename($page->getTitle()) . '.md';
+    }
 }
 
 //generate the pages
@@ -133,12 +142,14 @@ class DivHelpParser {
         // reformat headings
         $content = preg_replace('/\{((\w| )+)\:\}/m','### ${1}', $content);
 
+        $content = htmlentities($content);
+
         //reformat code examples
         $content = preg_replace_callback(
             '/{#9999,(.*):}(.+){-}/ms',
             function($matches) use ($filenames){
                 list($match, $title, $code) = $matches;
-                return sprintf("### %s\n```\n%s\n```\n", $title, trim($code));
+                return sprintf("### %s\n```\n%s\n```\n", $title, html_entity_decode(trim($code)));
             },
             $content
         );
@@ -156,7 +167,7 @@ class DivHelpParser {
         // reformat emphasis
         $content = preg_replace('/\{(.+?)\}/m','**${1}**', $content);
 
-        return htmlspecialchars($content);
+        return $content;
     }
 }
 
