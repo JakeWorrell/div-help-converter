@@ -1,0 +1,3932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>None/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/glossary_of_terms/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/abs()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/advance()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/change_sound()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/clear_screen()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/collision()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/convert_palette()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/define_region()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/delete_text()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/end_fli()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/exit()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fade()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fade_off()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fade_on()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fget_angle()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fget_dist()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/frame_fli()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_angle()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_dist()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_distx()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_disty()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_id()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_joy_button()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_joy_position()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_pixel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_point()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_real_point()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/graphic_info()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/is_playing_cd()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/key()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/let_me_alone()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_fnt()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_fpg()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_pal()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_pcm()_forward_slash_load_wav()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/map_block_copy()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/map_get_pixel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/map_put()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/map_put_pixel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/map_xput()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/move_scroll()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/move_text()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/near_angle()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/out_region()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/play_cd()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/pow()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/put()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/put_pixel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/put_screen()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/rand()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/rand_seed()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/refresh_scroll()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/reset_fli()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/roll_palette()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/save()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_fps()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_mode()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/signal()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/sound()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/sqrt()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/start_fli()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/start_mode7()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/start_scroll()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_cd()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_mode7()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_scroll()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_sound()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/system()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unload_fpg()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unload_pcm()_forward_slash_unload_wav()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/write()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/write_int()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/xput()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_map()_forward_slash_load_pcx()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/reset_sound()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unload_map()_forward_slash_unload_pcx()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unload_fnt()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_volume()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_color()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/net_join_game()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/net_get_games()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_mode8()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/xadvance()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/char()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/path_find()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/path_line()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/path_free()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/new_map()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_wld()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/start_mode8()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/go_to_flag()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_sector_height()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_sector_height()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_point_m8()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_point_m8()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_fog()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_sector_texture()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_sector_texture()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_wall_texture()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_wall_texture()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_env_color()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strcpy()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strcat()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strlen()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strcmp()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strchr()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strstr()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strset()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/upper()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/lower()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/strdel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/screen_copy()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/qsort()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_song()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unload_song()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/song()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/stop_song()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/set_song_pos()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_song_pos()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_song_line()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/is_playing_sound()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/is_playing_song()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fopen()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fclose()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fread()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fwrite()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fseek()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ftell()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/filelength()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/flush()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_dirinfo()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/get_fileinfo()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/getdrive()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/setdrive()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/chdir()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/mkdir()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/remove()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/disk_free()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/memory_free()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ignore_error()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/save_map()_forward_slash_save_pcx()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/sin()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/cos()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/tan()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/asin()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/acos()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/atan()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/atan2()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/draw()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/delete_draw()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/move_draw()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/write_in_map()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/calculate()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/itoa()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/change_channel()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/malloc()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/free()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/encode()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/encode_file()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/decode_file()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/compress_file()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/uncompress_file()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/find_color()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/load_screen()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/force_pal()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/insufficient_memorydot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltobjdotdef_was_not_found/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_ltlexdotdef_filedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_ltlexdotdef_filedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_ltlexdotdef_filedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltobjdotdef_was_not_found/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_ltobjdotdef_filedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unknown_characterdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unclosed_literaldot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unknown_symboldot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[program]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_the_programapostrophes_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[equal]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[)]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[]]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/an_operand_was_waited_fordot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unknown_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[begin]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_constant_expression_was_waited_fordot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_table_has_been_exceededdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_offset_can_not_be_calculateddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/too_many_values_for_the_tabledot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/division_by_0dot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/table_of_negative_lengthdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[(]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/only_can_be_repeated_once_or_twicedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_assignmentdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[end]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_expressiondot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[until]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_variable_that_can_not_be_accesseddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_parameterdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_another_parameterdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_number_of_parametersdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[semicolon]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/[break]_does_not_appear_inside_a_loopdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/[continue]_does_not_appear_inside_a_loopdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[case/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[end]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[process]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_table_can_not_be_specified_as_a_parameterdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_parameter_can_not_be_initialiseddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_end_came_inside_a_commentdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/it_is_not_possible_to_access_external_private_datadot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_structure_must_contain_one_elemen/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_an_element_of_the_structuredot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/it_is_not_a_type_of_processdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_size_can_not_be_calculateddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/usecolon_import_double_quotenamedotdlldouble_quote/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/use_of_an_invalid_external_dlldot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expression_with_no_sensedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[colon]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[semicolon]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_a_variabledot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[equal]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[to]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_value_step_is_not_validdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/invalid_from_statementdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/correct_compilation/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/exceeded_the_capacity_of_the_names_vectordot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/exceeded_the_capacity_of_the_demo_versiondot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/exceeded_the_capacity_of_the_table_of_objectsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_the_structure_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_the_process_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_the_name_of_a_processdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_a_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_is_not_newdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_[equal]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/too_many_values_for_the_structuredot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/unknown_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_increment_can_not_be_performeddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/structure_of_negative_lengthdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_statement_was_expecteddot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_for_the_name_of_the_string/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_name_has_already_been_allocated/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/text_string_has_a_negative_length/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/_a_literal_was_expected/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/literal_is_too_long/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_comma_was_expected_/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/a_comma_was_expected_/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/cannot_calculate_the_offset_of_the_data/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/assignation_to_incorrect_string/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/text_string_is_too_long/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/incorrect_initiation/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_[semicolon]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/_expecting_a_compilation_option/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_[equal]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/assignation_inside_of_a_condition/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_length_does_not_coincide_with_the_previous_declaration/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_name/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/value_of_byte_out_of_rank_(0to255)/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/value_of_word_out_of_rank_(0to65535)/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_name/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/cannot_specify_a_table_as_the_parameter/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/statement_import_is_incorrect_(see_corresponding_help)/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_name/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_name/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/incorrect_declaration_of_the_pointer_to_a_structure/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/cannot_receive_a_structure_as_the_parameter/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_name_of_structure/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/expecting_a_field_of_the_structure/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/syntax_of_a_programdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_a_namedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_commentsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/programapostrophes_headdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_constantsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_a_constantdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_global_datadot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_local_datadot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_private_datadot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_a_variabledot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_a_variabledot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_a_tabledot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_a_structuredot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_a_list_of_constantsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_librariesdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/main_codedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_processesdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/declaration_of_statementsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/parameters_of_a_processdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/assignment_statementdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/if_statements/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/switch_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/while_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/repeat_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/loop_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/for_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/break_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/_continue_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/return_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/frame_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/clone_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/debug_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/list_of_functions_of_the_languagedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/call_to_a_process/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/reference_to_a_variable/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_an_expression/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/evaluation_of_an_expression/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/definition_of_a_condition/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ways_to_obtain_the_identifying_code_of_a_processdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/_identifying_codes_of_processesdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/states_of_a_processdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/hierarchies_of_processesdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/types_of_processesdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/from_statement/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/use_of_angles_in_the_languagedot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/not__not/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltgt__notequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/double_quote__apostrophe/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/mod__percent/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/percentequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/and/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/and__andand/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/andequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/(__)/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/asterisk/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/asteriskequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/plus/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/plusplus/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/plusequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/comma/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/minus/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/minusminus/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/minusequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/dot__minusgt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/dotdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/forward_slash/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/forward_slashequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/colon/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/semicolon/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/lt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltlt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltltequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ltequal__equallt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/equal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/equalequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/gtequal__equalgt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/gt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/gtgt/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/gtgtequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/pointer__[__]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/caret/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/caretequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/xor__caretcaret/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/or__pipepipe__pipe/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/pipeequal/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/offset/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/begin/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/case/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/default/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/dup/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/else/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/end/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/id/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/setup_program/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/sizeof()/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/step/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/to/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/until/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_mouse/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_scroll/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_m7/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_joy/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_setup/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_timer[]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_text_z/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_fading/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_shift_status/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_ascii/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_scan_code/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_joy_filter/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_joy_status/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_restore_type/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_dump_type/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_max_process_time/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_struct_reserved/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_father/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_son/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_smallbro/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_bigbro/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_priority/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_ctype/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_x/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_y/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_z/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_graph/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_flags/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_size/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_angle/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_region/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_file/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_xgraph/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_height/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_cnumber/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_resolution/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/control_pointsdot/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/videomodes/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/true/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/false/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_kill/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_wakeup/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_sleep/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_freeze/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_kill_tree/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_wakeup_tree/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_sleep_tree/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/s_freeze_tree/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/all_text/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/all_sound/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/g_wide/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/g_height/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/g_x_centre/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/g_y_centre/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/c_screen/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/c_scroll/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/c_m7/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/partial_dump/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/complete_dump/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/no_restore/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/partial_restore/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/complete_restore/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/numbers_of_window/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/key_codes/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/min_int/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/max_int/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/pi/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/predefined_global_data/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/predefined_local_data/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/constants_predefined/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/program_debugger/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/commands_in_the_graphic_environment/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/common_commands_in_the_games/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/commands_in_the_programsapostrophe_debugger/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/commands_in_the_programsapostrophe_editor/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/commands_in_the_graphic_editor/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/common_helpforward_slash_questions_about_div/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/help_about_the_calculator/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/compilation_options/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/types_of_data/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_of_type_int/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_of_type_word/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_of_type_byte/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_of_type_pointer/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_of_type_string/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/adjustment_of_data_in_memory/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_function_blocks_/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_argv[/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_net/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_m8/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/c_m8/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_dirinfo/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_fileinfo/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_struct_video_modes/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_channel[]/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_vsync/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_draw_z/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_num_video_modes/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_unit_size/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_radius/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_m8_wall/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_m8_sector/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_m8_nextsector/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/local_m8_step/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/global_fps/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/welcome_to_div_2015not/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/new_language_commands_etcdotdot_in_div_version_3dot0/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/new_additions_to_the_environment_in_version_3dot0/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/resolution_of_configuration_problems/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/what_is_div_games_studio/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/working_with_windows/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/types_of_windows/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/demo_session/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/conflict_with_the_sound_system/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_sound_system_is_not_working/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/fixing_a_video_mode/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_configuration_window/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/first_contact_with_the_language/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/monitoring_or_debugging_the_programs/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/the_last_possible_term_inside_this_hypertext/</loc>
+     <lastmod>2016-03-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
